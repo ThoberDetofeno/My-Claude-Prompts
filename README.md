@@ -64,7 +64,7 @@ Here is an example:
     The cover letter should be write in a formal tone.
     The cover letter should highlights my experiences (<experience> tag) considering the job description.
     Do not highlight in the cover letter the job requirements that I do not have experience with.
-    Before answering, please think about the question within <thinking></thinking> XML. 
+    Before answering, please think about the question within <thinking></thinking> XML tags. 
 </instructions>
 
 ```
