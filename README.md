@@ -3,7 +3,7 @@ Welcome to the "My Claude Prompts" repository! This is a collection of prompt ex
 
 
 
-## 🚀 Crafting the Perfect Cover Letter with Claude
+## :spiral_notepad: Crafting the Perfect Cover Letter with Claude
 Create personalized, engaging cover letters painless by the power of Claude.
 
 A well-crafted cover letter can make all the difference in landing a job. It's essential to ensure that your cover letter doesn't come across as cold or machine-generated. In this prompt, we'll show you how to harness the Claude to compose a compelling cover letter that customize with human authenticity.
