@@ -3,7 +3,7 @@ Welcome to the "My Claude Prompts" repository! This is a collection of prompt ex
 
 
 
-## 🚀 Cover letter
+## 🚀 Crafting the Perfect Cover Letter with Claude
 
 
 
@@ -51,4 +51,4 @@ Before answering, please think about the question within <thinking></thinking> X
 
 ```
 
-
+See more tips [HERE](https://www.extern.com/post/chatgpt-cover-letter)
