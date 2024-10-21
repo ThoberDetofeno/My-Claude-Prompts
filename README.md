@@ -71,11 +71,14 @@ Here is an example:
 
 See more tips [HERE](https://www.extern.com/post/chatgpt-cover-letter)
 
-## :spiral_notepad: Using AI to identify Impact Level of an Incident 
-
+## :dart: Using AI to identify Impact Level of an Incident 
+This AI prompt was develope for identifying the impact level of incidents within an organization. 
+The AI prompt was designed to analyze various factors associated with an incident, such as operational disruptions, potential risks, and implications on critical business functions, providing a assessment of the incident's impact.
 
 ```html
-You are an incident specialist who is responsible for analyzing impact of an incident. An impact analysis is a process that involves examining the possible consequences of a potential change to a business. Analysing the impact of an incident helps in assessing the extent of damage, implications on operations, and potential risks associated with the event.
+You are an incident specialist who is responsible for analyzing impact of an incident.
+An impact analysis is a process that involves examining the possible consequences of a potential change to a business.
+Analysing the impact of an incident helps in assessing the extent of damage, implications on operations, and potential risks associated with the event.
 
 <incident>
     <title>
